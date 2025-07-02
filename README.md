@@ -36,8 +36,8 @@ upskillcampus/ ├── BankingInformationSystem.java ├── Kanak_MultiClie
 
 ## 📎 Submission Links
 
-- 🔗 [Java Code File](https://github.com/kanak/upskillcampus/blob/main/BankingInformationSystem.java)
-- 📄 [Internship Report (PDF)](https://github.com/kanak/upskillcampus/blob/main/Kanak_MultiClientPlatform_USC_UCT.pdf)
+- 🔗 [Java Code File](https://github.com/Kanakbaghel/upskillcampus/commit/28f10a3d285d01ec80dd2423ed4c2979a446b0e7)
+- 📄 [Internship Report (PDF)](https://github.com/Kanakbaghel/upskillcampus/blob/main/BankingInformationSystem_Kanak_Baghel_USC_UCT.pdf)
 
 ## 🛠️ Tools & Tech Used
 
