@@ -1,65 +1,103 @@
-# upskillcampus
-# 🛠️ Multi-Client Service Platform
 
-> Developed during a 6-week industrial internship with **Upskill Campus**, **The IoT Academy**, and **UniConverge Technologies Pvt. Ltd.**
+<h1 align="center">🛠️ Multi-Client Service Platform</h1>
+<p align="center"><em>Developed during a 6-week internship with Upskill Campus, The IoT Academy, & UniConverge Technologies Pvt. Ltd.</em></p>
 
-## 📌 Project Overview
+---
 
-This Java-based simulation models a multi-merchant service marketplace where **merchants** can register, list services, and manage orders, while **customers** can browse services by category, book appointments, and simulate payments. The program runs in a CLI environment using modular, object-oriented design.
+## 📌 Overview
+
+This Java-based CLI simulation models a dynamic multi-merchant service marketplace.  
+Merchants can register, list services, and manage orders, while customers browse, book, and simulate payments—all via a modular, object-oriented architecture.
+
+---
 
 ## 🎯 Key Features
 
-- 🔐 Role-based user authentication (Merchant & Customer)
-- 🗂️ Category-wise service listing and filtering
-- 📅 Appointment scheduling with time input
-- 💳 Simulated payment gateway flow
-- 📧 Mock email notifications via console output
-- 🧾 Merchant and Customer dashboards with order history
-- 🧹 Clean Java architecture using OOP principles
+| 🔐 Auth System | 📅 Appointments | 💳 Payments | 📧 Notifications |
+|---------------|-----------------|-------------|------------------|
+| Role-based login for Merchants & Customers | Time-slot booking | Simulated gateway flow | Console-based email confirmations |
 
-## 📂 Project Structure
-upskillcampus/ ├── BankingInformationSystem.java ├── Kanak_MultiClientPlatform_USC_UCT.pdf ├── README.md └── images/ └── sample-output.png
+- 🗂️ Service listing by category  
+- 🧾 Merchant & Customer dashboards  
+- 🧹 Clean OOP architecture  
+- 📦 Modular and scalable CLI design  
 
+---
 
 ## 💡 How It Works
 
-### 👨‍🔧 Merchant Workflow:
-1. Login with registered credentials
-2. Add services with name, category, and price
-3. View received orders and customer details
+### 👨‍🔧 Merchant Flow
+1. Secure login  
+2. Add services with category & price  
+3. Track orders & view customer details  
 
-### 👩‍💼 Customer Workflow:
-1. Login using email & password
-2. Browse services by category
-3. Select a merchant and schedule an appointment
-4. Place order, simulate payment, receive confirmation
+### 👩‍💼 Customer Flow
+1. Login via email/password  
+2. Browse services by category  
+3. Schedule appointments with merchants  
+4. Simulate payments & get confirmation  
 
-## 📎 Submission Links
+---
 
-- 🔗 [Java Code File](https://github.com/Kanakbaghel/upskillcampus/commit/28f10a3d285d01ec80dd2423ed4c2979a446b0e7)
+## 📂 Project Structure
+
+```bash
+upskillcampus/
+├── BankingInformationSystem.java
+├── Kanak_MultiClientPlatform_USC_UCT.pdf
+├── README.md
+└── images/
+    └── sample-output.png
+```
+
+---
+
+## 📎 Resources
+
+- 🔗 [Java Source Code Commit](https://github.com/Kanakbaghel/upskillcampus/commit/28f10a3d285d01ec80dd2423ed4c2979a446b0e7)  
 - 📄 [Internship Report (PDF)](https://github.com/Kanakbaghel/upskillcampus/blob/main/BankingInformationSystem_Kanak_Baghel_USC_UCT.pdf)
 
-## 🛠️ Tools & Tech Used
+---
 
-- Java 17 (OOP and CLI programming)
-- Visual Studio Code
-- Git & GitHub for version control
-- Manual test scenarios for validation
+## 🛠️ Tech Stack
 
-## 📈 Learnings
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,vscode,git,github" height="40"/>
+</p>
 
-- Applied OOP principles to real-world simulations
-- Built authentication & modular order handling logic
-- Strengthened skills in Java debugging and user input flow
-- Learned project documentation and GitHub publication best practices
+- **Java 17**: CLI and OOP programming  
+- **VS Code**: Development  
+- **Git & GitHub**: Version control  
+- **Manual Testing**: CLI-based user validation  
 
-## 🔮 Future Enhancements
+---
 
-- Persist user data with file storage or JDBC
-- Integrate real email using JavaMail API
-- Build a GUI using JavaFX or web version with Spring Boot
-- Add admin panel and feedback/rating system
+## 📈 Takeaways
 
-## 🙏 Acknowledgements
+- Mastered real-world use of OOP principles  
+- Developed modular design & CLI simulations  
+- Strengthened debugging and workflow logic  
+- Learned documentation and GitHub best practices  
 
-Special thanks to Upskill Campus, The IoT Academy, and UniConverge Technologies Pvt. Ltd. for providing this hands-on opportunity. This project was a valuable step toward real-world readiness in software engineering.
+---
+
+## 🔮 What’s Next?
+
+- 🧮 Data persistence with JDBC or file I/O  
+- 📧 Real email integration using JavaMail API  
+- 🖥️ GUI transformation with JavaFX or Spring Boot  
+- 🛡️ Admin dashboard, feedback & rating system
+
+---
+
+## 🙏 Credits
+
+Big thanks to **Upskill Campus**, **The IoT Academy**, and **UniConverge Technologies Pvt. Ltd.**  
+Their mentorship and industrial exposure helped me gain practical software engineering skills and confidence.
+
+---
+
+<p align="center">
+  <em>Crafted with ♥ by <strong>Kanak Baghel</strong> | <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em>
+</p>
+
